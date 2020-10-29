@@ -1,4 +1,13 @@
-# Open Budget: Oakland
+# Open Budget: Miami 
+
+## Background
+
+This project started by Open Oakland to create data visualizations on the City's budget. It quickly
+became the number 1 Google searched item. We hope to build a hyper local budget visualization for
+municipalities in South Florida starting with Miami. 
+
+FYI: City of Miami has an [Open Budget portal](https://budget.data.miamigov.com) on Socrata. We think we can make it better. 
+
 
 ## Contributing
 
